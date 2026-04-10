@@ -101,8 +101,10 @@
 .border{border-width:1px;}
 .border-darkslate-100{--un-border-opacity:1;border-color:rgb(44 44 44 / var(--un-border-opacity));}
 .border-primary-500{--un-border-opacity:1;border-color:rgb(230 57 70 / var(--un-border-opacity));}
+.border-white\/10{border-color:rgb(255 255 255 / 0.1);}
 .hover\:border-primary-500:hover{--un-border-opacity:1;border-color:rgb(230 57 70 / var(--un-border-opacity));}
 .rounded{border-radius:0.25rem;}
+.rounded-3xl{border-radius:1.5rem;}
 .rounded-full{border-radius:9999px;}
 .rounded-lg{border-radius:0.5rem;}
 .border-solid{border-style:solid;}
