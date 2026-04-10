@@ -11,52 +11,47 @@
   }
 },
   "seo": {
-    "personName": "Zeel Patel",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
-    "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
-    ]
-  },
-  "intro": {
-    "welcomeLabel": "welcome",
-    "name": "Zeel Patel",
-    "summary": "a web design and development student focused on UX/UI and building modern, user-friendly websites",
-    "socialButtons": [
-      {
-        "ariaLabel": "github profile",
-        "screenReaderLabel": "GitHub Profile",
-        "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "ariaLabel": "linkedin profile",
-        "screenReaderLabel": "Linkedin Profile",
-        "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
-      }
-    ],
-    "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
-      "imageAlt": "Buy Me a Coffee at ko-fi.com"
+  "personName": "Zeel Patel",
+  "jobTitle": "Web Design and Development Student",
+  "worksFor": "NAIT",
+  "location": "Edmonton",
+  "countryCode": "CA",
+  "nationality": "Canadian",
+  "publisherName": "Zeel Patel",
+  "sameAs": [
+    "https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/",
+    "https://github.com/ZeelHPatel"
+  ]
+},
+"intro": {
+  "welcomeLabel": "welcome",
+  "name": "Zeel Patel",
+  "summary": "a web design and development student focused on UX/UI and building modern, user-friendly websites",
+  "socialButtons": [
+    {
+      "ariaLabel": "github profile",
+      "screenReaderLabel": "GitHub Profile",
+      "icon": "ri:github-fill",
+      "url": "https://github.com/ZeelHPatel"
     },
-    "image": {
-      "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+    {
+      "ariaLabel": "linkedin profile",
+      "screenReaderLabel": "LinkedIn Profile",
+      "icon": "ri:linkedin-box-fill",
+      "url": "https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"
     }
+  ],
+  "supportLink": {
+    "url": "https://ko-fi.com/M4M71O34X",
+    "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
+    "imageAlt": "Buy Me a Coffee at ko-fi.com"
   },
+  "image": {
+    "src": "/me.webp",
+    "alt": "memoji of Zeel Patel"
+  }
+},
+   
   "about": {
     "title": "About me",
     "intro": "Hi, I'm Zeel, a web design and development student at NAIT focused on UX/UI and building modern websites.",

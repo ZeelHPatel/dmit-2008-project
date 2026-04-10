@@ -8,7 +8,7 @@ import AboutMe from "../components/AboutMe";
 import Now from "../components/Now";
 import ContentPlaceholder from "../components/ContentPlaceholder";
 import profileData from "@/data/profile.json";
-import WeatherCard from "../components/WeatherCard";
+import WeatherCard from "@/components/WeatherCard";
 // import Globe from "../components/Globe";
 
 export default function Home() {
@@ -92,7 +92,14 @@ export default function Home() {
             </p>
           </div>
         </Card>
-        <WeatherCard />
+        <WeatherCard
+  weather={{
+    city: "Edmonton",
+    temperature: 10,
+    description: "clear sky",
+    icon: "01d",
+  }}
+/>
         <Card colSpan="md:col-span-1" rowSpan="md:row-span-1">
           <div className="relative min-h-[44px] overflow-hidden">
             <footer className="absolute inset-0 text-xs opacity-100 translate-y-0 transition-all duration-300 ease-out group-hover:-translate-y-3 group-hover:opacity-0 group-focus-within:-translate-y-3 group-focus-within:opacity-0">
