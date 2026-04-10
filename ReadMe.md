@@ -1,8 +1,10 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
-
-![Website Screenshot](./docs/images/screenshot.png)
+> Student Name: Zeel Patel
+Git Username: ZeelHPatel
+netlify: https://zeel-portfolio-template.netlify.app/
+Github: https://github.com/ZeelHPatel/dmit-2008-project
+![Website Screenshot](./docs/images/netlify-deploy-weather-card.png)
 
 In this assignment, you will demonstrate your ability to
 
