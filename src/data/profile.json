@@ -1,17 +1,17 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
-    "footer": {
-      "year": "2026",
-      "prefix": "Built on",
-      "frameworkName": "React",
-      "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
-    }
-  },
+  "title": "Zeel Patel - Portfolio",
+  "description": "I'm Zeel Patel, a web design and development student at NAIT focused on UX/UI, WordPress, and building modern, user-friendly websites.",
+  "footer": {
+    "year": "2026",
+    "prefix": "Built on",
+    "frameworkName": "React",
+    "frameworkUrl": "https://react.dev/",
+    "author": "Zeel Patel"
+  }
+},
   "seo": {
-    "personName": "Gianmarco",
+    "personName": "Zeel Patel",
     "jobTitle": "Freelance Frontend Developer",
     "worksFor": "Self-Employed",
     "location": "Italy",
@@ -25,8 +25,8 @@
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Zeel Patel",
+    "summary": "a web design and development student focused on UX/UI and building modern, user-friendly websites",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
@@ -59,15 +59,15 @@
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Zeel, a web design and development student at NAIT focused on UX/UI and building modern websites.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
-      "JavaScript",
-      "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+     "HTML",
+  "CSS",
+  "JavaScript",
+  "WordPress",
+  "Figma",
+  "React"
     ],
     "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
     "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
@@ -75,17 +75,17 @@
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "zeelp0007@gmail.com",
+    "location": "Edmonton, Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/feed/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/ZeelHPatel"
       },
       {
         "label": "Discord",
